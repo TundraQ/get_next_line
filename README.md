@@ -18,5 +18,5 @@ Third - "!" \
 Fourth and others "(null)" 
 
 ## Bonus (files with postfix _bonus)
-There is one static variable (**DONE**) \
+There is one static variable
 It can read from different file descriptors
