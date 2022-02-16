@@ -19,4 +19,4 @@ Fourth and others "(null)"
 
 ## Bonus (files with postfix _bonus)
 There is one static variable (**DONE**) \
-It can read from different file descriptors (**NOT ALL VALUES OF FILE DESCRIPTOR WERE TOOK INTO ACCONUT**)
+It can read from different file descriptors
